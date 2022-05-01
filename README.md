@@ -66,6 +66,4 @@ I am interested in full stack and recently focus on backend development. current
 ## My Another Works on
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/haudhiizza)
 
----
-
 <img src="https://imgur.com/rilHVxA.png"/>
