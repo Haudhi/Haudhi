@@ -1,4 +1,4 @@
-# Hi there, I'm Haudhi Izza <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Haudhi <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
@@ -29,6 +29,8 @@ I am interested in full stack and recently focus on backend development. current
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+
+----
 
 ### ReactJS Projects
 
