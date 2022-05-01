@@ -8,7 +8,7 @@ I am interested in full stack and recently focus on backend development. current
 
 ### Languages
 
-[![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=black)]()
+[![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)]()
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
