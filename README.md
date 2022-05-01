@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Backend Developer
+## A passionately curious Backend Developer from Jakarta
 
-I am currently learning more about backend development.
+I am interested in full stack and recently focus on backend development. currently looking for new opportunities.
 
 ### Languages
 
@@ -28,6 +28,20 @@ I am currently learning more about backend development.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+
+### ReactJS Projects
+
+[![](https://img.shields.io/badge/-🧬%20Modern%20UI-000)](https://adoring-mirzakhani-85fb8a.netlify.app/)
+[![](https://img.shields.io/badge/-🧬%20LawFirm%20Website-000)](https://hungry-noether-f87a26.netlify.app/)
+[![](https://img.shields.io/badge/-🧬%20Company%20Profile-000)](https://tender-dubinsky-3633d8.netlify.app/)
+[![](https://img.shields.io/badge/-🧬%20Cryptocurrency%20Tracker-000)](https://angry-jang-908f27.netlify.app/)
+[![](https://img.shields.io/badge/-🧬%20Movie%20Searcher-000)](https://wizardly-payne-be5ac3.netlify.app/)
+
+### Backend Projects
+
+[![](https://img.shields.io/badge/-🧬%20ECommerce%20-000)](https://github.com/ALTA-BE7-Usamah/group-project-2)
+[![](https://img.shields.io/badge/-🧬%20Event%20Planner-000)](https://github.com/ALTA-BE7-Husnul/Backend-Group4-Project3)
+[![](https://img.shields.io/badge/-🧬%20Booking%20Sport%20Arena-000)](https://github.com/ALTA-Booking-Sport-Arena-App)
 
 
 ---
