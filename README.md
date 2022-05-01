@@ -43,6 +43,24 @@ I am interested in full stack and recently focus on backend development. current
 [![](https://img.shields.io/badge/-🧬%20Event%20Planner-000)](https://github.com/ALTA-BE7-Husnul/Backend-Group4-Project3)
 [![](https://img.shields.io/badge/-🧬%20Booking%20Sport%20Arena-000)](https://github.com/ALTA-Booking-Sport-Arena-App)
 
+### GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Haudhi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Haudhi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on 👇
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haudhiizza/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/odi.zz/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/haudhi_)
+
+
+### My Another Works on
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/haudhiizza)
 
 ---
 
