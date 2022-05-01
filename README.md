@@ -6,7 +6,7 @@
 
 I am interested in full stack and recently focus on backend development. currently looking for new opportunities.
 
-### Languages
+## Languages
 
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)]()
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -14,7 +14,7 @@ I am interested in full stack and recently focus on backend development. current
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-### Technologies
+## Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -32,7 +32,7 @@ I am interested in full stack and recently focus on backend development. current
 
 ----
 
-### ReactJS Projects
+## ReactJS Projects
 
 [![](https://img.shields.io/badge/-🧬%20Modern%20UI-000)](https://adoring-mirzakhani-85fb8a.netlify.app/)
 [![](https://img.shields.io/badge/-🧬%20LawFirm%20Website-000)](https://hungry-noether-f87a26.netlify.app/)
@@ -40,13 +40,13 @@ I am interested in full stack and recently focus on backend development. current
 [![](https://img.shields.io/badge/-🧬%20Cryptocurrency%20Tracker-000)](https://angry-jang-908f27.netlify.app/)
 [![](https://img.shields.io/badge/-🧬%20Movie%20Searcher-000)](https://wizardly-payne-be5ac3.netlify.app/)
 
-### Backend Projects
+## Backend Projects
 
 [![](https://img.shields.io/badge/-🧬%20ECommerce%20-000)](https://github.com/ALTA-BE7-Usamah/group-project-2)
 [![](https://img.shields.io/badge/-🧬%20Event%20Planner-000)](https://github.com/ALTA-BE7-Husnul/Backend-Group4-Project3)
 [![](https://img.shields.io/badge/-🧬%20Booking%20Sport%20Arena-000)](https://github.com/ALTA-Booking-Sport-Arena-App)
 
-### GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -55,7 +55,7 @@ I am interested in full stack and recently focus on backend development. current
 </a>
 </p>
 
-### Reach me on 👇
+## Reach me on 👇
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haudhiizza/)
 ![](https://img.shields.io/badge/haudhiiza@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
@@ -63,7 +63,7 @@ I am interested in full stack and recently focus on backend development. current
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/haudhi_)
 
 
-### My Another Works on
+## My Another Works on
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/haudhiizza)
 
 ---
