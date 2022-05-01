@@ -24,7 +24,7 @@ I am interested in full stack and recently focus on backend development. current
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Action-000?style=flat&logo=githubactions)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-2CA5E0?style=flat&logo=bootstrap&logoColor=563D7C)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)]()
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white)
