@@ -56,6 +56,7 @@ I am interested in full stack and recently focus on backend development. current
 ### Reach me on 👇
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haudhiizza/)
+![](https://img.shields.io/badge/haudhiiza@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/odi.zz/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/haudhi_)
 
