@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## A passionately curious Backend Developer from Jakarta
+## A passionately curious Backend Developer
 
 I am interested in full stack and recently focus on backend development. currently looking for new opportunities.
 
