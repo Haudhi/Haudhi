@@ -1,4 +1,4 @@
-# Hi there, I'm Haudhi <img width="1px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Haudhi <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="0.1vw" /> 
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
@@ -55,7 +55,7 @@ I am interested in full stack and recently focus on backend development. current
 </a>
 </p>
 
-## Reach me on 👇
+## Reach me on <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haudhiizza/)
 ![](https://img.shields.io/badge/haudhiiza@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
