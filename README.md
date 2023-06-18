@@ -4,7 +4,7 @@
 
 ## A passionately curious Full-stack Developer
 
-Looking foward to collaborate with you. 
+Looking forward to collaborate with you. 
 
 ## Languages
 
