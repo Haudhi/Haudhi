@@ -9,7 +9,8 @@ Looking foward to collaborate with you.
 ## Languages
 
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)]()
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
