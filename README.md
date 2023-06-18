@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## A passionately curious Backend Developer
+## A passionately curious Full-stack Developer
 
-I am interested in full stack and recently focus on backend development. currently looking for new opportunities.
+Looking foward to collaborate with you. 
 
 ## Languages
 
