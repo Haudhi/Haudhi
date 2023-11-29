@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## A passionately curious Full-stack Developer
+## A passionately curious Software Engineer
 
 Looking forward to collaborate with you. 
 
