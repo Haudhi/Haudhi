@@ -4,7 +4,7 @@
 
 ## A passionately curious Software Engineer
 
-Looking forward to collaborate with you. 
+Currently exploring the fascinating world of Machine Learning. Looking forward to collaborate with you. 
 
 ## Languages
 
