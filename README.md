@@ -57,6 +57,16 @@ Sales Forecasting
 
 Fine Tuning Llama 3 with Unsloth
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RwbBRwbvQ20tv589uRTyK3xdcXEgYG9P?authuser=0#scrollTo=0aBC_loAgV41)
+[![Prompt Engineering LLaMA3 with Langchain](https://img.shields.io/badge/-Prompt%20Engineering%20with%20LLaMA%203-000?style=flat)](https://github.com/Haudhi/prompt-engineering-llama3-with-langchain)  
+[![Predicting Temperature in London with MLflow](https://img.shields.io/badge/-Predicting%20Temperature%20in%20London-000?style=flat)](https://github.com/Haudhi/predicting-temperature-in-london)  
+[![Predictive Modeling for Agriculture](https://img.shields.io/badge/-Predictive%20Modeling%20for%20Agriculture-000?style=flat)](https://github.com/Haudhi/predictive-modeling-for-agriculture)  
+
+
+## Backend Projects
+
+[![](https://img.shields.io/badge/-🧬%20ECommerce%20-000)](https://github.com/ALTA-BE7-Usamah/group-project-2)
+[![](https://img.shields.io/badge/-🧬%20Event%20Planner-000)](https://github.com/ALTA-BE7-Husnul/Backend-Group4-Project3)
+[![](https://img.shields.io/badge/-🧬%20Booking%20Sport%20Arena-000)](https://github.com/ALTA-Booking-Sport-Arena-App)
 
 ## ReactJS Projects
 
@@ -66,11 +76,6 @@ Fine Tuning Llama 3 with Unsloth
 [![](https://img.shields.io/badge/-🧬%20Cryptocurrency%20Tracker-000)](https://angry-jang-908f27.netlify.app/)
 [![](https://img.shields.io/badge/-🧬%20Movie%20Searcher-000)](https://wizardly-payne-be5ac3.netlify.app/)
 
-## Backend Projects
-
-[![](https://img.shields.io/badge/-🧬%20ECommerce%20-000)](https://github.com/ALTA-BE7-Usamah/group-project-2)
-[![](https://img.shields.io/badge/-🧬%20Event%20Planner-000)](https://github.com/ALTA-BE7-Husnul/Backend-Group4-Project3)
-[![](https://img.shields.io/badge/-🧬%20Booking%20Sport%20Arena-000)](https://github.com/ALTA-Booking-Sport-Arena-App)
 
 ## GitHub Analytics
 
