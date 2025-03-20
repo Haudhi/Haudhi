@@ -59,7 +59,7 @@ Fine Tuning Llama 3 with Unsloth
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RwbBRwbvQ20tv589uRTyK3xdcXEgYG9P?authuser=0#scrollTo=0aBC_loAgV41)
 
 [![Prompt Engineering LLaMA3 with Langchain](https://img.shields.io/badge/🦙%20Prompt%20Engineering%20LLaMA3%20with%20Langchain-000?style=flat&logo=llama&logoColor=white)](https://github.com/Haudhi/prompt-engineering-llama3-with-langchain)  
-[![Predicting Temperature in London with MLflow](https://img.shields.io/badge/🌡️%20Predicting%20Temperature%20in%20London-000?style=flat&logo=python&logoColor=white)](https://github.com/Haudhi/predicting-temperature-in-london)  
+[![Predicting Temperature in London with MLflow](https://img.shields.io/badge/🌡️%20Predicting%20Temperature%20in%20London%20with%20MLflow-000?style=flat&logo=python&logoColor=white)](https://github.com/Haudhi/predicting-temperature-in-london)  
 [![Predictive Modeling for Agriculture](https://img.shields.io/badge/🌱%20Predictive%20Modeling%20for%20Agriculture-000?style=flat&logo=tensorflow&logoColor=FF6F00)](https://github.com/Haudhi/predictive-modeling-for-agriculture)  
 
 
