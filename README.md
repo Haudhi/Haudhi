@@ -39,6 +39,10 @@ Currently exploring the fascinating world of Machine Learning. Looking forward t
 
 ## ReactJS Projects
 
+[![Sales Forescasting](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OwAhe46MhwTcaYbS0onQJoX5srRFIpjX#scrollTo=cjdijBV38eFr)
+
+## ReactJS Projects
+
 [![](https://img.shields.io/badge/-🧬%20Modern%20UI-000)](https://adoring-mirzakhani-85fb8a.netlify.app/)
 [![](https://img.shields.io/badge/-🧬%20LawFirm%20Website-000)](https://hungry-noether-f87a26.netlify.app/)
 [![](https://img.shields.io/badge/-🧬%20Company%20Profile-000)](https://tender-dubinsky-3633d8.netlify.app/)
