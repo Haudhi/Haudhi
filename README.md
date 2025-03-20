@@ -9,31 +9,44 @@ Currently exploring the fascinating world of Machine Learning. Looking forward t
 ## Languages
 
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)]()
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Phyton](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-## Technologies
+## 🛠️ Backend & API Tools  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
+![Microservices](https://img.shields.io/badge/Microservices-000?style=flat&logo=docker&logoColor=white)  
+
+## 🚀 Machine Learning & AI  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-008080?style=flat&logo=python&logoColor=white)  
+![Fine-tuning LLama](https://img.shields.io/badge/Fine--tuning%20LLama-FF5733?style=flat&logo=llama&logoColor=white)  
+![MLOps](https://img.shields.io/badge/MLOps-4CAF50?style=flat&logo=azure-pipelines&logoColor=white)  
+![MLflow](https://img.shields.io/badge/MLflow-017CEE?style=flat&logo=mlflow&logoColor=white)  
+
+## 🛠️ ML Libraries & Tools  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)  
+
+## ☁️ Cloud & Infrastructure  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat&logo=github-actions&logoColor=white)  
+
+## 🛠️ Dev Tools  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
+![React](https://img.shields.io/badge/-React-000?&logo=React)  
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)    
 
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Action-000?style=flat&logo=githubactions)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-2CA5E0?style=flat&logo=bootstrap&logoColor=563D7C)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)]()
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongooDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ----
 
