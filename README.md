@@ -40,7 +40,7 @@ Currently exploring the fascinating world of Machine Learning. Looking forward t
 ## Machine Learning Projects
 
 Sales Forecasting
-[![Sales Forecasting](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/drive/1OwAhe46MhwTcaYbS0onQJoX5srRFIpjX#scrollTo=cjdijBV38eFr)
+[![](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/drive/1OwAhe46MhwTcaYbS0onQJoX5srRFIpjX#scrollTo=cjdijBV38eFr)
 
 
 ## ReactJS Projects
