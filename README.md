@@ -6,7 +6,7 @@
 
 Currently exploring the fascinating world of Machine Learning. Looking forward to collaborate with you. 
 
-## Languages
+## 🖥️ Languages
 
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)]()
 ![Phyton](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
