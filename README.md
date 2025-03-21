@@ -18,7 +18,7 @@ A data enthusiast currently exploring the fascinating world of Machine Learning.
 
 ## 🛠️ Backend & API Tools
 
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)]()  
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)]()  
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
 ![Microservices](https://img.shields.io/badge/Microservices-000?style=flat&logo=docker&logoColor=white)&nbsp;  
