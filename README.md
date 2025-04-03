@@ -35,7 +35,7 @@ A data enthusiast currently exploring the fascinating world of Machine Learning.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)  
+![Google-Colab](https://img.shields.io/badge/Google-Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)  
 
 ## ☁️ Cloud & Infrastructure  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
