@@ -31,8 +31,9 @@ A data enthusiast currently exploring the fascinating world of Machine Learning.
 ![MLflow](https://img.shields.io/badge/MLflow-017CEE?style=flat&logo=mlflow&logoColor=white)  
 
 ## 🛠️ ML Libraries & Tools  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+![PySpark](https://img.shields.io/badge/PySpark-3.4.1-orange?logo=apachespark)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)  
 
