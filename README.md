@@ -60,6 +60,7 @@ Sales Forecasting
 
 Fine Tuning Llama 3 with Unsloth
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RwbBRwbvQ20tv589uRTyK3xdcXEgYG9P?authuser=0#scrollTo=0aBC_loAgV41)
+[![ML Project](https://img.shields.io/badge/ML%20Project-End--to--End%20with%20MLflow-blueviolet?style=for-the-badge&logo=mlflow)](https://github.com/Haudhi/end-to-end-ml-project-with-mlflow/)
 
 [![Prompt Engineering LLaMA3 with Langchain](https://img.shields.io/badge/🦙%20Prompt%20Engineering%20LLaMA3%20with%20Langchain-000?style=flat&logo=llama&logoColor=white)](https://github.com/Haudhi/prompt-engineering-llama3-with-langchain)  
 [![Predicting Temperature in London with MLflow](https://img.shields.io/badge/🌡️%20Predicting%20Temperature%20in%20London%20with%20MLflow-000?style=flat&logo=python&logoColor=white)](https://github.com/Haudhi/predicting-temperature-in-london)  
